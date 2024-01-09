@@ -1,0 +1,26 @@
+.container {
+  width: 400px;
+  padding: 20px;
+}
+
+.container legend {
+  font-weight: bold;
+}
+
+.container form {
+  margin-bottom: 0;
+}
+
+.container fieldset {
+  margin-bottom: 0;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.button-with-margin {
+  margin: 10px;
+}
+
